@@ -1,4 +1,5 @@
 ### Hello
+I am working on my own writing career here, starting with a few articles...
 
 <!--
 **ordvild/ordvild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
