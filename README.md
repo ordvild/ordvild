@@ -1,2 +1,2 @@
-# Välkomment till ordvild
+# Ordvild
 Jag älskar ord, text och språk. En bokmal och ordnörd, vars favoritord är *förvisso*…
