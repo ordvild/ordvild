@@ -1,2 +1,2 @@
 # Ordvild
-Jag älskar ord, text och språk. En bokmal och ordnörd, vars favoritord är *förvisso*…
+Jag älskar ord, text och språk! Detta är ett privat repo för mina hobbyprojekt inom text.
