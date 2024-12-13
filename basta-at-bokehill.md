@@ -29,5 +29,3 @@ I bastun finns:
 - golvskrapa
 - termometer
 - ljusslinga
-
-[Värma bastun](https://ordvild.se/varma-bastun)
