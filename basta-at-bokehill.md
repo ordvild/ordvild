@@ -29,3 +29,12 @@ I bastun finns:
 - golvskrapa
 - termometer
 - ljusslinga
+
+#### Instruktioner
+
+[Basturegler](https://ordvild.se/basturegler)
+[Värma bastun](https://ordvild.se/varma-bastun)
+[Basturitual](https://ordvild.se/basturitual)
+[När du bastat klart](https://ordvild.se/bastat-klart)
+[Öppna för säsongen](https://ordvild.se/oppna-for-sasongen)
+[Stänga för säsongen](https://ordvild.se/stanga-for-sasongen)
