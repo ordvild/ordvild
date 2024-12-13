@@ -16,4 +16,4 @@
 - Endast dryck i bastun, ingen mat.
 - Drick ofta för att inte bli uttorkad.
 - Använd ljusslingan vid behov av belysning i bastun. Knappen till ljusslingan är röd och sitter på eluttaget bakom den högra fåtöljen i bastukammaren.
-> **FÖRSIKTIGHET** Elda ej stearinljus i bastun då dessa smälter av värmen och kan orsaka brand.
+> **VARNING** Elda ej stearinljus i bastun då dessa smälter av värmen och kan orsaka brand.
