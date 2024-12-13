@@ -2,9 +2,8 @@
 
 Bastun består av bastukammaren och bastun.
 
-#### Bastukammaren
+**I bastukammaren finns:**
 
-I bastukammaren finns:
 - loungemöbler
 - klädhängare, krokar och stång till kläder, handdukar och sittlappar
 - hudvårdsprodukter
@@ -15,9 +14,8 @@ I bastukammaren finns:
 - tändmateriel
 - spegel
 
-#### Bastun
+**I bastun finns:**
 
-I bastun finns:
 - kamin med vattentank
 - lavar (träbänkarna man sitter på)
 - vattentunna
@@ -30,16 +28,9 @@ I bastun finns:
 - termometer
 - ljusslinga
 
-#### Instruktioner
-
-[Basturegler](https://ordvild.se/basturegler)
-
-[Värma bastun](https://ordvild.se/varma-bastun)
-
-[Basturitual](https://ordvild.se/basturitual)
-
-[När du bastat klart](https://ordvild.se/bastat-klart)
-
-[Öppna för säsongen](https://ordvild.se/oppna-for-sasongen)
-
+[Basturegler](https://ordvild.se/basturegler)<br>
+[Värma bastun](https://ordvild.se/varma-bastun)<br>
+[Basturitual](https://ordvild.se/basturitual)<br>
+[När du bastat klart](https://ordvild.se/bastat-klart)<br>
+[Öppna för säsongen](https://ordvild.se/oppna-for-sasongen)<br>
 [Stänga för säsongen](https://ordvild.se/stanga-for-sasongen)
