@@ -30,4 +30,4 @@ I bastun finns:
 - termometer
 - ljusslinga
 
-[Värma bastun](https://ordvild.se/värma-bastun)
+[Värma bastun](https://ordvild.se/varma-bastun)
