@@ -1,0 +1,21 @@
+# Frigör dina fötter, kvinna!
+
+I dessa tider av feministiska uttryck, tycker jag det är på sin plats att slå ett slag för att kvinnor ska frigöra sina fötter. I många årtionden – kanske hela senaste seklet – har kvinnor gått i för trånga skor, för att inte tala om högklacksidealet. Helt vansinnigt!
+
+För drygt ett år sedan avyttrade jag mitt enda par högklackade skor. Det var det enda par högklackade skor jag någonsin haft som faktiskt var bär-bara. De var från Ecco med 7 cm hög, dämpande klack. Men det gjorde dem inte till ett par bra skor. Högklackat är nämligen per definition en mycket dålig sko för både fot och kropp.
+
+Förutom att tårna kläms ihop i tåboxen av att de smalnar av och att de lutar, så tvingar klacken kroppen att stå som om man stod i en brant nerförsbacke. Detta gör att låren positionerar sig på ett visst sätt. Det kan också vara så att huvudet skjuts fram för att hålla balansen, speciellt när man går, vilket i längden leder till dålig hållning, gamnacke och ont i kroppen.
+
+Själv hade jag alltid i vuxen ålder idealiserat högklackat. Det var på något sätt den sko alla kvinnor borde kunna bära, men som de flesta inte klarade av mer än korta stunder eller på fester. I flera år pågick jakten på ett par högklackade som faktiskt gick att ha på sig. Och det tyckte jag att jag hittade i Ecco-skorna. Men det betyder inte att det kändes bra att ha dem på sig, dagen efter var ju fötterna svullna och ömma i alla fall. Men det hade i alla fall gått att *stå ut* en hel dag i dem, till skillnad från andra varianter jag hade provat.
+
+Jag hade också haft vinterstövlar med klack och kängor med något lägre klack flera säsonger, trots att det gjorde ont när man gick i dem länge. Under denna period höll jag också på att kämpa med olika inlägg för hålfoten. Det slog mig aldrig att det var skorna som i grunden orsakade ”behovet” av inlägg. Men det gick så långt att jag helst inte ville gå runt för mycket barfota (eller i strumplästen) för att inte anstränga fötterna, trots att jag egentligen älskade att gå barfota. Detta kom dock till ett slut när jag för två år sedan upptäckte funtionella ”barfotaskor” och kunde frigöra mig från obekväma skor och inlägg för gott.
+
+Nu när jag har slutat med högklackat (och andra trånga skor med klack), så har jag insett hur begränsande det är! Och det gör det till en kvinnofråga på sätt och vis. Vi kvinnor behöver stå stadigt på jorden och vara grundade i våra kroppar. Detta är omöjligt när vi klämmer in fötterna i trånga skor och vinglar runt på höga klackar. För att stå stadigt behöver vi vara barfota och spreta med tårna. Att högklackat anses sexigt är väl en spegling av vår samtida kultur, men jag undrar hur sexigt det är i längden med kvinnor som klagar på skoskav, ömma tår och inte orkar promenera hem från festen. För att inte tala om ovan nämnda gamnacke och dåliga hållning. Sexigheten kommer inifrån, så även självständigheten. Och detta i sin tur kommer av att känna sig fri och stabil!
+
+Jag kommer troligtvis aldrig att ta på mig högklackat igen, för det är en form av manifesterad sexism som bara får oss kvinnor att låta oss bli kontrollerade av orimliga ideal. Varför ska jag förstöra mina fötter och min kropp för att någon lurat i alla andra att det skulle vara snyggt? Varför tvingas medelålders kvinnor lägga höga klackar på hyllan och krångla med inlägg och operationer för hallux valgus? Jo, för att trånga skor och klack aldrig har varit bra, det tar bara många år för problemen att blomma ut helt. **Ingen** kan gå i högklackat, vissa lyckas bara inbilla sig själva det lite mer än andra.
+
+Är det någonting vi kvinnor i det jämställda Sverige har kvar att rätta till så är det att bojkotta alla typer av fotförstörande skodon som säljs till oss som ”kvinnlig stil” och befria våra fötter. I synnerhet högklackat som är den typ av sko som bara säljs till kvinnor. De flesta kvinnor väljer ju ändå sköna sneakers så fort de får chansen och kan komma undan med det. Så frigör dig själv och dina fötter, kvinna!
+
+*Not: även män borde befria sina fötter från trånga kontorsskor, men det steget får de ta själva...*
+
+Copyright &copy; 2024 Ordvild
