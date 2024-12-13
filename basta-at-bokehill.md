@@ -1,6 +1,7 @@
 # Basta@Bokehill
 
 Bastun består av bastukammaren och bastun.
+
 #### Bastukammaren
 
 I bastukammaren finns:
@@ -13,6 +14,7 @@ I bastukammaren finns:
 - ved
 - tändmateriel
 - spegel
+
 #### Bastun
 
 I bastun finns:
