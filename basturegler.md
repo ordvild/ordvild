@@ -4,7 +4,7 @@
 - Vattentunnan fylls på med kallt, rent vatten från kranen eller brunnen. 
 - Häll aldrig tillbaka vatten i vattentunnan från kaminens vattentank, tvättbaljorna eller stävan.
 - Elda enbart ren, torr ved utan kåda i kaminen.
-	> **FÖRSIKTIGHET** Elda inte färsk ekved, träbitar med spik och färg eller kartong, tidningspapper och papper då det kan förstöra kaminen.
+  > **FÖRSIKTIGHET** Elda inte färsk ekved, träbitar med spik och färg eller kartong, tidningspapper och papper då det kan förstöra kaminen.
 - Vattentanken i kaminen ska alltid vara fylld upp till 5 cm nedanför kanten. Fyll på med kallt, rent vatten ur vattentunnan.<br>**VARNING** Använd skopan med höger hand för att inte spilla på kaminen och få stänk av het vattenånga på dig.
 - Tvätta dig innan du börjar basta. Basta naken.<br>
 	**VARNING** Kaminen och metalldelarna kring vredet är brännheta och kan ge brännskador på huden. **Vid allvarlig brännskada, ring 112.** Vid lättare brännskada, sänk genast ner berörd kroppsdel i ljummet vatten i 1 h. Efterbehandla med fuktigt förband under ett dygn.<br>
