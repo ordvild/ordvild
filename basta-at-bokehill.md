@@ -1,5 +1,7 @@
 # Basta@Bokehill
 
+Bastun i Bokehill är en finsk, vedeldad bastu där man tvättar sig i bastun och sedan njuter av värmen.
+
 Bastun består av bastukammaren och bastun.
 
 **I bastukammaren finns:**
@@ -27,6 +29,8 @@ Bastun består av bastukammaren och bastun.
 - golvskrapa
 - termometer
 - ljusslinga
+
+**Innehåll**:
 
 [Basturegler](https://ordvild.se/basturegler)<br>
 [Värma bastun](https://ordvild.se/varma-bastun)<br>
