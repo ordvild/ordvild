@@ -15,7 +15,7 @@ Artiklar om fötter som jag skrev kring 2020:
 - [Vandringens återkomst](http://ordvild.se/vandringens-aterkomst)
 - [Frigör dina fötter, kvinna!](http://ordvild.se/frigor-dina-fotter-kvinna)
 
-Instruktioner för att [Basta at Bokehill](http://ordvild.se/basta-at-bokehill).
+Nyligen har jag skrivit en [Bastumanual](http://ordvild.se/bastumanual) för en närståendes finska bastu.
 
 ## Ordvild korrektur och språkgranskning
 
