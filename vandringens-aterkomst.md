@@ -20,4 +20,4 @@ Efter det har suget efter mer vandring och naturvistelse blivit påtagligt. Ivri
 
 Över stock och sten, höjdmeter upp och höjdmeter ner – jag längtar redan till nästa äventyr – beredd med fria, starka fötter! Finns det något bättre än att ge sig ut för fem timmars vandring med milsvid utsikt, komma hem över tusen svettiga höjdmeter senare, och känna hur fötterna är skönt trötta – men starkare – för att man **använt dem**?
 
-Copyright &copy; 2024 Ordvild
+Copyright &copy; 2025 Ordvild
