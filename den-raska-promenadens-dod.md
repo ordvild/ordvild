@@ -12,4 +12,4 @@ I min egen omställning till ”barfotaskor” har jag själv ännu inte gått �
 
 Har du förresten någonsin sett en person barfota gå en rask promenad? Nä, jag tänkte väl det. Det går inte. Så fort man tar av sig barfota saktar fötterna ner. Rask gång är en fysiologisk motsägelse. En modern myt som det är hög tid att slå hål på.
 
-Copyright &copy; 2025 Ordvild
+Copyright &copy; 2020 Ordvild

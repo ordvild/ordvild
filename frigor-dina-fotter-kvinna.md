@@ -18,4 +18,4 @@ Jag kommer troligtvis aldrig att ta på mig högklackat igen, för det är en fo
 
 *Not: även män borde befria sina fötter från trånga kontorsskor, men det steget får de ta själva...*
 
-Copyright &copy; 2025 Ordvild
+Copyright &copy; 2020 Ordvild
