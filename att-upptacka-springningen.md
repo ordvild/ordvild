@@ -14,4 +14,4 @@ Springningen har uppstått i mitt liv. Det är skrämmande att tänka att något
 
 Någon vecka senare, när träningsvärken i fötterna mattats av, smyger jag ut i skogsdungen bakom mitt bostadshus med en spring-ivrig sambo. Wow, vad roligt det blev! Med korta steg och turbo, kan jag nu flyga fram över stock och sten som jag nog alltid drömt om. I början blir det korta turer, flåset och fötterna måste ju komma ifatt, men med tiden hoppas jag kunna springa längre. Så länge får jag roa mig med att jaga min sambo korta sträckor, och det är lika roligt som när man var barn. En ny värld har öppnat sig och det har väckts en längtan i mig att se vart springningen kan ta mig.
 
-Copyright &copy; 2024 Ordvild
+Copyright &copy; 2025 Ordvild
