@@ -39,4 +39,4 @@ Kvalitet, enkelhet och fantasi är mina ledstjärnor.
 
 Tankar eller förslag på samarbeten skickas till: *ordvild [snabel-a] pm [punkt] me*
 
-Copyright © 2025 Ordvild
+Copyright © 2024 Ordvild
