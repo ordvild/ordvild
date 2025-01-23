@@ -11,6 +11,4 @@ Värma bastun<br>
 Basturitual<br>
 När du bastat klart<br>
 Öppna för säsongen<br>
-Stänga för säsongen<br>
-Inventarielista
-
+Stänga för säsongen
