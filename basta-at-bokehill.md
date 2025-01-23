@@ -10,6 +10,7 @@ Några saker att tänka på för att undvika skador och så att det blir trevlig
 - Häll aldrig tillbaka vatten i vattentunnan från kaminens vattentank, tvättbaljorna eller stävan.
 - Elda enbart ren, torr ved utan kåda i kaminen.
 > **FÖRSIKTIGHET** Elda inte färsk ekved, träbitar med spik och färg eller kartong, tidningspapper och papper då det kan förstöra kaminen.
+> **VARNING** Använd **ej** tändvätska eller blåsbälg i kaminen då detta kan orsaka brand i bastun.
 
 - Vattentanken i kaminen ska alltid vara fylld upp till 5 cm nedanför kanten. Fyll på med kallt, rent vatten ur vattentunnan.
 > **VARNING** Använd skopan med höger hand för att inte spilla på kaminen och få stänk av het vattenånga på dig.
@@ -26,3 +27,5 @@ Några saker att tänka på för att undvika skador och så att det blir trevlig
 - Drick ofta för att inte bli uttorkad.
 - Använd ljusslingan vid behov av belysning i bastun. Knappen till ljusslingan är röd och sitter på eluttaget bakom den högra fåtöljen i bastukammaren.
 > **VARNING** Elda ej stearinljus i bastun då dessa smälter av värmen och kan orsaka brand.
+
+- Ljuslyktorna kan användas för att skapa mysbelysning ute på trädäcket (ej i bastun). I händelse av brand finns en brandfilt i bastukammaren.

@@ -9,7 +9,7 @@
 7. Öppna fönstret i bastun på glänt så att ångan vädras ur. Tryck försiktigt upp fönstret inifrån.
 8. Låt ventilen i bastun vara öppen.
 9. Öppna fönstret i bastukammaren och tänd fönsterlampan. Detta lyse är till för att hjälpa dig att komma ihåg att stänga senare.
-10. Häng sittlappar och handdukar på tork i bastukammaren eller på tvättlinan på gaveln på bastun.
+10. Häng sittlappar och handdukar på tork i bastukammaren eller på tvättlinan på gaveln på bastun. Klädnypor finns i bastukammaren eller på tvättlinan.
 11. Hälsa från bastun till övriga i sällskapet!
 12. När bastun svalnat av och torkat upp:
 	- Stäng fönstret i bastun.

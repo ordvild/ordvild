@@ -17,7 +17,7 @@ Bastun kan användas vintertid om man fyller på vattentunnan och vattentanken i
 - Hämta klädnyporna i stugan och lägg i bastukammaren eller häng på tvättlinan på gaveln.
 - Rengör bastun:
 	1. Tänd bastun enligt instruktioner i *Starta bastun*. Kom i håg att fylla på vattentanken i kaminen innan du tänder!
-	1. Skrubba lavarna och golvet med såpa. Skölj av och skrapa bort vattnet.
+	1. Skrubba lavarna och golvet med såpa. Skölj av och skrapa bort vattnet. Såpa finns i bastukammaren.
 	1. Rengör vattentunnan, tvättbaljorna, skopan och stävan.
 	1. Rengör lådan med tvål och notera om det behöver fyllas på med något.
 	1. Elda tills bastun torkat upp. Njut gärna av säsongens första bastu under tiden!
