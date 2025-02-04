@@ -1,5 +1,7 @@
 # När du bastat klart
 
+När du bastat klart behöver du lägga i ved för att torka bastun, samt tömma ut och skrapa bort vatten och vädra ur ånga.
+
 1. Lägg i två vedträn i kaminen ”för bastun”. Detta är för att den ska torka upp.
 2. Kontrollera att vattentanken i kaminen är fylld till 5 cm under översta kanten, annars fyll upp med kallt, rent vatten från vattentunnan.
 3. Töm tvättbaljorna på golvet. Tvätta bort tvålrester ur dem. Lägg dem upp och ner på träbänken eller nedersta laven.<br>Häll aldrig tillbaka vatten från kaminens vattentank, tvättbaljorna eller stävan i vattentunnan.
