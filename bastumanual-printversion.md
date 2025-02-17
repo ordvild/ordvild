@@ -4,7 +4,7 @@ Bastun i Bokehill är en finsk, vedeldad bastu där man tvättar sig i bastun oc
 
 > Denna manual finns också på ordvild.se/bastumanual.
 
-**Innehåll**:
+### Innehåll
 
 Basta@Bokehill<br>
 Värma bastun<br>
