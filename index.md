@@ -27,15 +27,20 @@ Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://so
 
 ### Referenser
 
-> Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare. – Agneta Nyholm, författare, föreläsare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och School of Graceful Living
+> Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare.
+> – Agneta Nyholm, författare, föreläsare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och School of Graceful Living
 
-> *Så ska en text skrivas!* – Sebastian, [FreeFoot](https://freefoot.se/), om min artikel Den raska promenadens död
+> Så ska en text skrivas!
+> – Sebastian, [FreeFoot](https://freefoot.se/), om min artikel Den raska promenadens död
 
-> *Sara med företaget Ordvild, civilingenjör i tillämpad hållbarhet och industriell ekologi, var med och granskade boken. I kombination med din nuvarande verksamhet inom textgranskning blev du den ideala korrekturläsaren. Tack!* – Nikolas och Ingrid Berg och Martin Hultman, författare till [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/)
+> Sara med företaget Ordvild, civilingenjör i tillämpad hållbarhet och industriell ekologi, var med och granskade boken. I kombination med din nuvarande verksamhet inom textgranskning blev du den ideala korrekturläsaren. Tack!
+> – Nikolas och Ingrid Berg och Martin Hultman, författare till [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/)
 
-> *Ditt korrektur av mitt examensarbete är fortfarande det bästa korrekturet jag fått i min karriär.* – Markus Millinger, disputerad forskare inom bioenergi
+> Ditt korrektur av mitt examensarbete är fortfarande det bästa korrekturet jag fått i min karriär.
+> – Markus Millinger, disputerad forskare inom bioenergi
 
-> *Dina kommentarer på min uppsats i demografi var precis vad jag behövde för att komma vidare!* – Johan, student och yrkesarbetande
+> Dina kommentarer på min uppsats i demografi var precis vad jag behövde för att komma vidare!
+> – Johan, student och yrkesarbetande
 
 ### Kontakt
 
