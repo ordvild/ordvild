@@ -23,9 +23,11 @@ Ibland frilansar jag och donerar min tid till personer och verksamheter som jag 
 
 Kvalitet, enkelhet och fantasi är mina ledstjärnor.
 
+Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår](https://www.academia.edu/128838145/I_modern_valan_och_den_heliga_h%C3%A4stens_sp%C3%A5r_Agneta_Nyholm_Sofiainstitutet_20250417_lkd).
+
 ### Referenser
 
-> *Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare.* – Agneta Nyholm, författare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och [School of Graceful Living](https://gracefulliving.se/)
+> *Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare.* – Agneta Nyholm, författare, föreläsare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och School of Graceful Living
 
 > *Så ska en text skrivas!* – Sebastian, [FreeFoot](https://freefoot.se/), om min artikel Den raska promenadens död
 
