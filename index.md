@@ -27,7 +27,7 @@ Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://so
 
 ### Referenser
 
-> *Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare.* – Agneta Nyholm, författare, föreläsare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och School of Graceful Living
+> Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare. – Agneta Nyholm, författare, föreläsare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och School of Graceful Living
 
 > *Så ska en text skrivas!* – Sebastian, [FreeFoot](https://freefoot.se/), om min artikel Den raska promenadens död
 
