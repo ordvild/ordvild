@@ -1,4 +1,4 @@
-of![ordvildlogo](Smultron_round.jpg "Ordvild")
+![ordvildlogo](Smultron_round.jpg "Ordvild")
  
 # Väkommen till Ordvild!
 
