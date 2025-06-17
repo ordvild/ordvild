@@ -1,4 +1,4 @@
-![ordvildlogo](Smultron_round.jpg "Ordvild")
+of![ordvildlogo](Smultron_round.jpg "Ordvild")
  
 # Väkommen till Ordvild!
 
@@ -19,25 +19,15 @@ Nyligen har jag skrivit en [Bastumanual](http://ordvild.se/bastumanual) för en 
 
 ## Ordvild korrektur och språkgranskning
 
-Ibland frilansar jag och donerar min tid till personer och verksamheter som jag tror på. Då erbjuder jag korrekturläsning och språkgranskning av bokmanus, artiklar, produktbeskrivningar och nyhetsbrev med mera. Jag riktar särskilt in mig på fristående, självpublicerande författare samt småföretag och organisationer.
+Ibland frilansar jag och donerar min tid till personer och verksamheter som jag tror på. Då erbjuder jag korrekturläsning, språkgranskning och redaktörstjänster av bokmanus, artiklar, produktbeskrivningar och nyhetsbrev med mera. Jag riktar särskilt in mig på fristående, självpublicerande författare samt småföretag och organisationer.
 
 Kvalitet, enkelhet och fantasi är mina ledstjärnor.
 
-Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår](https://www.academia.edu/128838145/I_modern_valan_och_den_heliga_h%C3%A4stens_sp%C3%A5r_Agneta_Nyholm_Sofiainstitutet_20250417_lkd).
+Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för upplaga 11 och 12 av det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2025/06/I-modern-valan-och-den-heliga-hastens-spar-Agneta-Nyholm-Sofiainstitutet-20250611-komp-1.pdf).
 
-### Referenser
+Jag var även med och granskade boken [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/).
 
-> Att använda Sara som redaktör och korrekturläsare till min bok om ledarskap har varit fantastiskt. Att hon är bra på det skrivna språket är en sak men hon är klarsynt, kompetent och grymt skicklig på att ge relevant feedback och kan se var saker behöver bli bättre, och den saken höjer värdet på hennes insatser avsevärt. Hon är verkligen en ovärderlig pärla för oss författare.<br>– Agneta Nyholm, författare, föreläsare och grundare till [Sofiainstitutet](https://sofiainstitutet.se/) och School of Graceful Living
-
-> Så ska en text skrivas!<br>– Sebastian, [FreeFoot](https://freefoot.se/), om min artikel Den raska promenadens död
-
-> Sara med företaget Ordvild, civilingenjör i tillämpad hållbarhet och industriell ekologi, var med och granskade boken. I kombination med din nuvarande verksamhet inom textgranskning blev du den ideala korrekturläsaren. Tack!<br>– Nikolas och Ingrid Berg och Martin Hultman, författare till [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/)
-
-> Ditt korrektur av mitt examensarbete är fortfarande det bästa korrekturet jag fått i min karriär.<br>– Markus Millinger, disputerad forskare inom bioenergi
-
-> Dina kommentarer på min uppsats i demografi var precis vad jag behövde för att komma vidare!<br>– Johan, student och yrkesarbetande
-
-### Kontakt
+## Kontakt
 
 Tankar eller förslag på samarbeten skickas till:<br>*ordvild [snabel-a] pm [punkt] me*
 
