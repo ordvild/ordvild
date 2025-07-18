@@ -8,7 +8,7 @@ I bastukammaren kan man byta om, torka sig eller bara sitta och ta det lugnt i l
 
 ### Innehåll
 
-[Trivsel och säkerhet](#trivsel-och-sakerhet)<br>
+[Trivsel och säkerhet](http://ordvild.se/trivsel-och-sakerhet)<br>
 [Värma bastun](http://ordvild.se/varma-bastun)<br>
 [Basturitual](http://ordvild.se/basturitual)<br>
 [Efter bastubad](http://ordvild.se/efter-bastubad)<br>
