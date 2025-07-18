@@ -1,4 +1,4 @@
-### Trivsel och säkerhet (#trivsel-och-sakerhet)
+### Trivsel och säkerhet
 
 - Ta av dig skorna direkt innanför ytterdörren i bastukammaren.
 - Håll dörren till bastun stängd så att värmen bevaras. Den är lite trög och behöver tryckas till försiktigt.<br>Svalka dig i bastukammaren eller ute på trädäcket om du behöver.
