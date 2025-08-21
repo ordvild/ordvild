@@ -1,5 +1,9 @@
+![ordvildlogo](Smultron_round.jpg "Ordvild")
+
 # Welcome to my writing portfolio!
 
+> This is the first version of my portfolio. Expect updates and improvements shortly.
+> 
 > This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish.
 > 
 > You can contact me at *ordvild [at] pm [dot] me* or on [LinkedIn](https://www.linkedin.com/in/sara-skenhall-6999a71a0).
@@ -8,11 +12,11 @@
 
 > Generic sample topics, in English, of a description and procedure are under construction and will be available shortly. In the meantime...
 
-I have created a use and maintenance manual, in Swedish, for a family member's Finnish sauna: [Sauna manual](https://ordvild.se/bastumanual). The end result was mainly a printed version, hence no linking between topics.
+I have created a use and maintenance manual, in Swedish, for a family member's Finnish sauna: [Bastumanual](https://ordvild.se/bastumanual). The end result was mainly a printed version, hence no linking between topics.
 
 ### Past technical writing at Snow Software (now Flexera)
 
-I wrote all the docs for the new SaaS product Snow SaaS Management (now Flexera One SaaS Management) from 2021 up until July 2024, when I left the company. The docs were written and maintained in Markdown, according to topic-based writing principles and the technical communication team’s writing guidelines:
+I wrote all the docs for the new SaaS product Snow SaaS Management (now Flexera One SaaS Management) from 2020 up until July 2024, when I left the company. The docs were written and maintained in Markdown, according to topic-based writing principles and the technical communication team’s writing guidelines:
 
 [https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/](https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/) 
 
@@ -24,7 +28,7 @@ Content under `/saas/browser-extension/token-broker-proxy/install-token-broker-p
 > 
 > Content that has been added after I left includes, but is not restricted to, `/saas/data-imports/`, `/saas/currency/`and docs for the SaaS connectors for Jira, Confluence, Coupa, Docusign, SAP SuccessFactors and Slack.
 
-I also helped update the content under `/docs-snow.flexera.com/snow-atlas-api/resources/` as well as the Snow Atlas REST API guidelines for developers (not publicly available) in 2024.
+I also helped update the content under `/docs-snow.flexera.com/snow-atlas-api/resources/` as well as the Snow Atlas REST API guidelines for developers (not publicly available) for a short period in the spring of 2024.
 
 ## UX writing
 
@@ -38,7 +42,7 @@ I was editor for the research document [I modern, valan och den heliga hästens 
 
 I was also reviewer and proofreader for the book [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/) in 2020.
 
-## Freelance writing
+## Article writing
 
 Articles about feet and functional footwear, in Swedish, that I wrote around 2020:
 
@@ -47,10 +51,18 @@ Articles about feet and functional footwear, in Swedish, that I wrote around 202
 - [Vandringens återkomst](http://ordvild.se/vandringens-aterkomst)
 - [Frigör dina fötter, kvinna!](http://ordvild.se/frigor-dina-fotter-kvinna)
 
-## Markdown experimenting
+## CV and cover letters
 
-My CV and cover letters are created in Markdown – because I just love it – and converted to PDF for compatibility reasons in application systems.
+My CV and cover letters are created in Markdown – because I just love it – and converted to PDF for compatibility reasons in application systems. I use Obsidian on my iPad for that and an online Markdown-to-PDF converter.
 
 My CV is an exercise in Markdown tables and how to get it right and readable when converting to PDF. Unfortunately, GitHub Pages does not handle tables well so I cannot upload my CV Markdown file here. Refer to my [LinkedIn profile](https://www.linkedin.com/in/sara-skenhall-6999a71a0) for my professional qualifications.
+
+## Publications
+
+Master thesis, June 2011, Chalmers University of Technology, conducted at Imperial College, London: [Towards closing the nitrogen flow in UK agriculture: An explorative study of integrated food and bioenergy production with increased nitrogen recirculation](https://hdl.handle.net/20.500.12380/142504)
+
+Scientific article in Biomass & Bioenergy, May 2013, based on my master thesis project: [Integration of bioenergy systems into UK agriculture](https://www.researchgate.net/publication/257421328_Integration_of_bioenergy_systems_into_UK_agriculture-New_options_for_management_of_nitrogen_flows)
+
+---
 
 Copyright © 2025 Ordvild
