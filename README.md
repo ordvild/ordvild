@@ -1,5 +1,5 @@
 # Ordvild
-Jag älskar ord, text och språk! Detta är ett privat repo för mina hobbyprojekt inom text. Det är skapat i sin enklaste form för att kunna publicera Markdown-filer, snarare än att vara nåt hemsidesbygge i HTML.
+Jag älskar ord, text och språk! Detta är ett privat repo för mina hobbyprojekt inom text samt för min portfölj.
 
 ## In English
-Ordvild means something like 'wild about words', which I am! This is a private repo for my hobby writing projects. I have created it as simple as possible, as a platform for publishing Markdown files, rather than some HTML webpage creation project. Most texts – if not all – are in Swedish.
+Ordvild means something like 'wild about words', which I am! This is a private repo for my hobby writing projects as well as my writing portfolio.
