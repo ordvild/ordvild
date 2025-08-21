@@ -17,6 +17,8 @@ Artiklar om fötter som jag skrev kring 2020:
 
 Nyligen har jag skrivit en [Bastumanual](http://ordvild.se/bastumanual) för en närståendes finska, vedeldade bastu.
 
+> För en samlad skribentportfölj, se [Writing portfolio](http://ordvild.se/writing-portfolio).
+
 ## Ordvild korrektur och språkgranskning
 
 Ibland frilansar jag och donerar min tid till personer och verksamheter som jag tror på. Då erbjuder jag korrekturläsning, språkgranskning och redaktörstjänster av bokmanus, artiklar, produktbeskrivningar och nyhetsbrev med mera. Jag riktar särskilt in mig på fristående, självpublicerande författare samt småföretag och organisationer.
@@ -30,5 +32,7 @@ Jag var även med och granskade boken [Naturens rättigheter](https://naturensra
 ## Kontakt
 
 Tankar eller förslag på samarbeten skickas till:<br>*ordvild [snabel-a] pm [punkt] me*
+
+---
 
 Copyright © 2024 Ordvild
