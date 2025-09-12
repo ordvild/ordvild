@@ -25,7 +25,7 @@ Ibland frilansar jag och donerar min tid till personer och verksamheter som jag 
 
 Kvalitet, enkelhet och fantasi är mina ledstjärnor.
 
-Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för upplaga 11 och 12 av det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2025/06/I-modern-valan-och-den-heliga-hastens-spar-Agneta-Nyholm-Sofiainstitutet-20250611-komp-1.pdf).
+Nyligen hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för upplaga 11, 12 och 13 av det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår]((https://sofiainstitutet.se/wp-content/uploads/2025/09/I-modern-valan-och-den-heliga-ha_stens-spa_r-Agneta-Nyholm-Sofiainstitutet-20250905-komp.pdf)).
 
 Jag var även med och granskade boken [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/).
 
