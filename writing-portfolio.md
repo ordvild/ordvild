@@ -53,9 +53,7 @@ Articles about feet and functional footwear, in Swedish, that I wrote around 202
 
 ## CV and cover letters
 
-My CV and cover letters are created in Markdown – because I just love it – and converted to PDF for compatibility reasons in application systems. I use Obsidian on my iPad for that and an online Markdown-to-PDF converter.
-
-My CV is an exercise in Markdown tables and how to get it right and readable when converting to PDF. Unfortunately, GitHub Pages does not handle tables well so I cannot upload my CV Markdown file here. Refer to my [LinkedIn profile](https://www.linkedin.com/in/sara-skenhall-6999a71a0) for my professional qualifications.
+My CV and cover letters are created in Markdown – because I just love it – and converted to PDF for compatibility reasons in various application systems. I use Obsidian on my iPad for that and an online Markdown-to-PDF converter. My CV is an exercise in Markdown tables and how to get it right and readable when converting to PDF. Unfortunately, GitHub Pages does not handle tables well so I have not uploaded an example file here.
 
 ## Publications
 
