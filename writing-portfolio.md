@@ -6,7 +6,7 @@
 > 
 > This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish.
 > 
-> You can contact me at *ordvild [at] pm [dot] me* or on [LinkedIn](https://www.linkedin.com/in/sara-skenhall-6999a71a0).
+> You can contact me at *ordvild [at] pm [dot] me* or on [LinkedIn](https://www.linkedin.com/in/sara-skenhall).
 
 ## Technical writing
 
@@ -38,7 +38,7 @@ Since the product was B2B, I have no UX writing samples to show here right now.
 
 ## Editor and reviewer work
 
-I was editor for version 11, 12 and 13 of the research document [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2025/09/I-modern-valan-och-den-heliga-ha_stens-spa_r-Agneta-Nyholm-Sofiainstitutet-20250905-komp.pdf), where my role was primarily to format an unstructured draft of 1000 pages into a publishable version by applying styles, do the layout, and help the author tie up loose ends. This was pro-bono work for [Sofiainstitutet](https://sofiainstitutet.se/). I did the work in Apple Pages.
+I was editor for version 11–14 of the research document [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/forskningen/), where my role was primarily to format an unstructured draft of 1000 pages into a publishable version by applying styles, do the layout, and help the author tie up loose ends. This was pro-bono work for [Sofiainstitutet](https://sofiainstitutet.se/). I did the work in Apple Pages.
 
 I was also reviewer and proofreader for the book [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/) in 2020.
 
