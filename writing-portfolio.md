@@ -2,33 +2,25 @@
 
 # Welcome to my writing portfolio!
 
-> This is the first version of my portfolio. Expect updates and improvements shortly.
-> 
-> This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish.
-> 
-> You can contact me at *ordvild [at] pm [dot] me* or on [LinkedIn](https://www.linkedin.com/in/sara-skenhall).
+> This is the inital version of my portfolio, which I will expand when I have time.
+
+This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish. Despite having worked many years in English during my career, many of my samples below are in Swedish. You can contact me at *ordvild [at] pm [dot] me* or on [LinkedIn](https://www.linkedin.com/in/sara-skenhall).
 
 ## Technical writing
 
-> Generic sample topics, in English, of a description and procedure are under construction and will be available shortly. In the meantime...
+> Sample topics, in English, will be available in the future. In the meantime...
+
+### Sauna manual
 
 I have created a use and maintenance manual, in Swedish, for a family member's Finnish sauna: [Bastumanual](https://ordvild.se/bastumanual). The end result was mainly a printed version, hence no linking between topics.
 
-### Past technical writing at Snow Software (now Flexera)
+### Technical writing at Snow Software (now Flexera)
 
-I wrote all the docs for the new SaaS product Snow SaaS Management (now Flexera One SaaS Management) from 2020 up until July 2024, when I left the company. The docs were written and maintained in Markdown, according to topic-based writing principles and the technical communication team’s writing guidelines:
+I wrote all the docs for the new SaaS product Snow SaaS Management (now Flexera One SaaS Management) from 2020 up until July 2024, when I left the company. The docs were written and maintained in Markdown, according to topic-based writing principles and the technical communication team’s writing guidelines: [https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/](https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/) 
 
-[https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/](https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/) 
+> **NOTE** The content has been updated, changed, and expanded on since I left.
 
-Content under `/saas/browser-extension/token-broker-proxy/install-token-broker-proxy/` and `/saas/browser-extension/token-broker-proxy/` was co-created with a fellow technical writer.
-
-> **DISCLAIMER**
-> 
-> Content under `/saas/` may have been updated after I left (I would be surprised if not!).
-> 
-> Content that has been added after I left includes, but is not restricted to, `/saas/data-imports/`, `/saas/currency/`and docs for the SaaS connectors for Jira, Confluence, Coupa, Docusign, SAP SuccessFactors and Slack.
-
-I also helped update the content under `/docs-snow.flexera.com/snow-atlas-api/resources/` as well as the Snow Atlas REST API guidelines for developers (not publicly available) for a short period in the spring of 2024.
+I also helped update the content under `/docs-snow.flexera.com/snow-atlas-api/resources/` as well as the Snow Atlas REST API guidelines for developers (not publicly available) in the spring of 2024.
 
 ## UX writing
 
