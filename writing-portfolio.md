@@ -4,11 +4,11 @@
 
 > This is the inital version of my portfolio, which I will expand when I have time.
 
-This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish. Despite having worked many years in English during my career, many of my samples below are in Swedish. You can contact me at *ordvild [at] pm [dot] me* or on [LinkedIn](https://www.linkedin.com/in/sara-skenhall).
+This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish. Despite having worked many years in English during my career, many of my samples below are in Swedish. You can contact me on [LinkedIn](https://www.linkedin.com/in/sara-skenhall).
 
 ## Technical writing
 
-> Sample topics, in English, will be available in the future. In the meantime...
+> Sample topics, in English,may be available in the future. In the meantime...
 
 ### Sauna manual
 
@@ -30,7 +30,7 @@ Since the product was B2B, I have no UX writing samples to show here right now.
 
 ## Editor and reviewer work
 
-I was editor for version 11–14 of the research document [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/forskningen/), where my role was primarily to format an unstructured draft of 1000 pages into a publishable version by applying styles, do the layout, and help the author tie up loose ends. This was pro-bono work for [Sofiainstitutet](https://sofiainstitutet.se/). I did the work in Apple Pages.
+I was editor for version 11–14 of the research document [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2026/02/I-modern-valan-och-den-heliga-hastens-spar-Agneta-Nyholm-Sofiainstitutet-20251003-fullsize-compressed.pdf), where my role was primarily to format an unstructured draft of 1000 pages into a publishable version by applying styles, do the layout, and help the author tie up loose ends. This was pro-bono work during 2025 for [Sofiainstitutet](https://sofiainstitutet.se/). I did the work in Apple Pages.
 
 I was also reviewer and proofreader for the book [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/) in 2020.
 
