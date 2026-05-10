@@ -32,7 +32,7 @@ Since the product was B2B, I have no UX writing samples to show here right now.
 
 I was editor for version 11–14 of the research document [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2026/02/I-modern-valan-och-den-heliga-hastens-spar-Agneta-Nyholm-Sofiainstitutet-20251003-fullsize-compressed.pdf), where my role was primarily to format an unstructured draft of 1000 pages into a publishable version by applying styles, do the layout, and help the author tie up loose ends. This was pro-bono work during 2025 for [Sofiainstitutet](https://sofiainstitutet.se/). I did the work in Apple Pages.
 
-I was also reviewer and proofreader for the book [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/) in 2020.
+I was also reviewer and proofreader for the book [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/) in 2019.
 
 ## Article writing
 
