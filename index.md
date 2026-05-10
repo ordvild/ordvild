@@ -19,7 +19,7 @@ Under 2024 tog jag fram en [Bastumanual](http://ordvild.se/bastumanual) för en 
 
 ## Ordvild korrektur och språkgranskning
 
-Tidigare frilansade jag och erbjöd språkgranskning och redaktörstjänster av bokmanus och artiklar med mera åt fristående, självpublicerande författare samt småföretag och organisationer. Under 2025 hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för upplagor 11–14 av det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2026/02/I-modern-valan-och-den-heliga-hastens-spar-Agneta-Nyholm-Sofiainstitutet-20251003-fullsize-compressed.pdf). Jag var även med under 2020 och granskade boken [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/).
+Tidigare frilansade jag och erbjöd språkgranskning och redaktörstjänster av bokmanus och artiklar med mera åt fristående, självpublicerande författare samt småföretag och organisationer. Under 2025 hade jag nöjet att få donera min tid till [Sofiainstitutet](https://sofiainstitutet.se/) och vara redaktör för upplaga 11–14 av det spännande forskningsdokumentet [I modern, valan och den heliga hästens spår](https://sofiainstitutet.se/wp-content/uploads/2026/02/I-modern-valan-och-den-heliga-hastens-spar-Agneta-Nyholm-Sofiainstitutet-20251003-fullsize-compressed.pdf). Jag var även med under 2020 och granskade boken [Naturens rättigheter](https://naturensrattigheter.se/2020/03/24/boken-naturens-rattigheter-att-skapa-fred-med-jorden/).
 
 Just nu tar jag inte frilansuppdrag utan jobbar som teknisk skribent inom IT och skriver dokumentation och tekniska manualer på dagarna.
 
