@@ -2,13 +2,13 @@
 
 # Welcome to my writing portfolio!
 
-> This is the inital version of my portfolio, which I will expand when I have time.
+> This is the inital version of my portfolio, which I will expand on when I have time.
 
 This writing portfolio is hosted in GitHub Pages, in my repository `ordvild`, which means ’wild about words’ in Swedish. Despite having worked many years in English during my career, many of my samples below are in Swedish. You can contact me on [LinkedIn](https://www.linkedin.com/in/sara-skenhall).
 
 ## Technical writing
 
-> Sample topics, in English,may be available in the future. In the meantime...
+> Sample topics, in English, may be available in the future. In the meantime...
 
 ### Sauna manual
 
